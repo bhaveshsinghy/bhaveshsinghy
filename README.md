@@ -19,7 +19,7 @@ I am a detail-oriented Data Analyst focused on cleaning complex datasets, buildi
 ### 🚀 Featured Projects
 
 #### 📈 [Retail Sales Analysis Dashboard](https://github.com)
-* **Tool:** Microsoft Excel (`.xlsb`)
+* **Tool:** Microsoft Excel
 * **Core Tasks:** Cleaned and transformed 51,000+ transaction records using advanced Excel functions. Built a dynamic executive dashboard utilizing Pivot Tables, Pivot Charts, and custom slicers.
 * **Key Insight:** Identified that product discounts exceeding 20% severely degraded net profitability, allowing for actionable strategic recommendations.
 
